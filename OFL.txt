@@ -1,5 +1,5 @@
 Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter)
-Maco Round 30 is a modified version of Inter v4.1, with fixed rounded outlines.
+maco is a modified version of Inter v4.1, with fixed rounded outlines.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
